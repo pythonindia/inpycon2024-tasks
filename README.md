@@ -28,8 +28,18 @@ PyCon India 2024 open community calendar. All volunteer calls are available here
 
 Get to know how the conference is organised and other important details about workgroups and all programs involved.
 
+### [Tickets](https://konfhub.com/pyconindia2024)
+
+![](https://raw.githubusercontent.com/pythonindia/inpycon2024/main/src/image/Group%204907.svg)
+
+Everyone is required to purchase a ticket including volunteers, speakers, attendees.
+
+![](https://raw.githubusercontent.com/pythonindia/inpycon2024/main/src/image/Mask%20Group%2040.svg)
+
 ## Get Started
 
 If you have an task that you want to put up, please follow the [task template](https://github.com/pythonindia/inpycon2024-tasks/issues/new/choose) and add your details accordingly.
 
 If you're looking to find something to work on, feel free to browse through [tasks mentioned here](https://github.com/pythonindia/inpycon2024-tasks/issues) or get in touch with respective workgroup on Zulip as linked above.
+
+![](https://raw.githubusercontent.com/pythonindia/inpycon2024/main/src/image/homebg.png)
