@@ -1,5 +1,7 @@
 # PyCon India 2024
 
+## Overview
+
 ### [Weekly Call Link (Wednesday 21:30 - 22:30 IST)](https://meet.jit.si/inpycon24)
 
 We discuss updates from previous week and plans for the next week
@@ -23,3 +25,9 @@ PyCon India 2024 open community calendar. All volunteer calls are available here
 ### [Navigator](https://navigator.in.pycon.org/en/latest)
 
 Get to know how the conference is organised and other important details about workgroups and all programs involved.
+
+## Get Started
+
+If you have an task that you want to put up, please follow the [task template](https://github.com/pythonindia/inpycon2024-tasks/issues/new/choose) and add your details accordingly.
+
+If you're looking to find something to work on, feel free to browse through [tasks mentioned here](https://github.com/pythonindia/inpycon2024-tasks/issues) or get in touch with respective workgroup on Zulip as linked above.
