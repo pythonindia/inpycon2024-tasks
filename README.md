@@ -1,5 +1,7 @@
 # [PyCon India 2024](https://in.pycon.org/2024)
 
+![PyCon India 2024 Logo](https://raw.githubusercontent.com/pythonindia/inpycon2024/main/src/image/Group%204789.svg "PyCon India 2024")
+
 ## Overview
 
 ### [Weekly Call Link (Wednesday 21:30 - 22:30 IST)](https://meet.jit.si/inpycon24)
