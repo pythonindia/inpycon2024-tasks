@@ -5,3 +5,4 @@
 - Zulip Link: https://pyconindia.zulipchat.com/ 
 - Timeline/Project: https://github.com/orgs/pythonindia/projects/4 
 - Calendar: https://bit.ly/inpycon-calendar
+- Navigator: https://navigator.in.pycon.org/en/latest/
